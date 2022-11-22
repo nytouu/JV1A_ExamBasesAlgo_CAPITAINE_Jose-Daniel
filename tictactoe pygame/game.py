@@ -5,6 +5,7 @@ morpion fait l'annee derniere en cours de lycee NSI
 la consigne etait de faire un projet sous pygame
 et d'utiliser les classes
 
+pour que pyame accede aux assets il faut changer le dosser courant de vscode
 """
 
 import pygame, sys
