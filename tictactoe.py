@@ -124,4 +124,7 @@ puissance 4 directement
 Il faudrait prendre en compte la gravite en ne pouvoir
 placer un jeton qu'au dessus un autre
 
+J'ai aussi indique certains changements relatif a pygame
+dans le morpion pygame
+
 """
